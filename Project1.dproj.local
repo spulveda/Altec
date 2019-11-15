@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/14 10:11:16.000.153,=C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/15 00:23:45.000.651,=C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/11/15 00:24:38.000.899,C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\AvaliacaoAltec\Unit2.dfm</Transaction>
+    <Transaction>2019/11/15 00:24:38.000.899,C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\AvaliacaoAltec\Unit2.pas</Transaction>
+    <Transaction>2019/11/15 00:40:52.000.460,=C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/11/15 00:41:19.000.391,C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\AvaliacaoAltec\UnitAPICep.pas</Transaction>
+    <Transaction>2019/11/15 01:24:53.000.253,C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Spulveda\Documents\Embarcadero\Studio\Projects\AvaliacaoAltec\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
